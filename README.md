@@ -9,4 +9,4 @@ Simulation contains 5 types of analysis and plots:
   - Scatter plots
 
 
-In the "REPORT" repo you can find the a review of codes and details along with plots.
+In the "REPORT" directory you can find the a review of codes and details along with plots.
